@@ -1,4 +1,4 @@
-# Yt-dlp-Plus (Simple GUI for yt-dlp commandline)
+# Yt-dlp-Plus (Simple GUI for yt-dlp command line)
 ![License](https://img.shields.io/badge/license-GPLv3-blue.svg)
 ![.NET](https://img.shields.io/badge/.NET-10.0-purple.svg)
 
