@@ -1,4 +1,4 @@
-# Yt-dlp-Plus (Simple GUI for yt-dlp command line)
+# YoutubeDownloader (Simple GUI for yt-dlp command line)
 ![License](https://img.shields.io/badge/license-GPLv3-blue.svg)
 ![.NET](https://img.shields.io/badge/.NET-10.0-purple.svg)
 
@@ -8,7 +8,7 @@ This utility provides a seamless way to download high-quality videos or entire p
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/ca293dd1-7f3e-4970-8abe-a701356af1ad" />
 
 ---
-## [Download - check releases here](https://github.com/Dinesh6777/yt-dlp-plus/releases)
+## [Download - check releases here](https://github.com/Dinesh6777/YoutubeDownloader/releases)
 ---
 ## 🚀 Key Features
 
